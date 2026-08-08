@@ -26,7 +26,6 @@ export function ServicesHero() {
     }
 
     const gsap = registerGsap();
-    let stopIntro: (() => void) | undefined;
 
     const ctx = gsap.context(() => {
       gsap.to(plate.current, {
@@ -50,30 +49,33 @@ export function ServicesHero() {
         scrollTrigger: { trigger: el, start: "45% top", end: "bottom top", scrub: true },
       });
 
-      stopIntro = onAppReady(() =>
-        ctx.add(() => {
-          const tl = gsap.timeline({ defaults: { ease: "expo.out" } });
-
-          tl.from(frame.current, { scale: 1.14, duration: 2, ease: "power3.out" })
-            .from("[data-svc-title]", { yPercent: 116, duration: 1.4, ease: "expo.out" }, 0.2)
-            .from("[data-svc-crumb]", { y: 14, opacity: 0, duration: 0.9 }, 0.7)
-            .from("[data-svc-rule]", { scaleX: 0, duration: 1.4 }, 0.75)
-            .from("[data-svc-mark]", { scale: 0.6, opacity: 0, duration: 1 }, 0.85)
-            /* The index is the page's own table of contents, so it arrives last
-               and item by item — it reads as a list being set, not as a block
-               of chrome fading up. */
-            .from(
-              "[data-svc-index-item]",
-              { y: 18, opacity: 0, duration: 0.8, stagger: 0.07 },
-              1,
-            );
-        }),
-      );
     }, el);
+
+    /* Outside the context callback on purpose: `ctx` is still in its temporal
+       dead zone while gsap.context() runs its initializer, and onAppReady calls
+       `start` synchronously once the curtain has already lifted — which is every
+       client-side navigation. Building the intro from inside threw "Cannot
+       access 'ctx' before initialization" and took the page down on any nav
+       click, while a hard load deferred it past the hazard and looked fine. */
+    const stopIntro = onAppReady(() =>
+      ctx.add(() => {
+        const tl = gsap.timeline({ defaults: { ease: "expo.out" } });
+
+        tl.from(frame.current, { scale: 1.14, duration: 2, ease: "power3.out" })
+          .from("[data-svc-title]", { yPercent: 116, duration: 1.4, ease: "expo.out" }, 0.2)
+          .from("[data-svc-crumb]", { y: 14, opacity: 0, duration: 0.9 }, 0.7)
+          .from("[data-svc-rule]", { scaleX: 0, duration: 1.4 }, 0.75)
+          .from("[data-svc-mark]", { scale: 0.6, opacity: 0, duration: 1 }, 0.85)
+          /* The index is the page's own table of contents, so it arrives last
+             and item by item — it reads as a list being set, not as a block
+             of chrome fading up. */
+          .from("[data-svc-index-item]", { y: 18, opacity: 0, duration: 0.8, stagger: 0.07 }, 1);
+      }),
+    );
 
     ScrollTrigger.refresh();
     return () => {
-      stopIntro?.();
+      stopIntro();
       ctx.revert();
     };
   }, []);

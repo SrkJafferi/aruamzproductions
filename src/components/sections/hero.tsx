@@ -31,7 +31,6 @@ export function Hero() {
     }
 
     const gsap = registerGsap();
-    let stopIntro: (() => void) | undefined;
 
     const ctx = gsap.context(() => {
       /* The plate drifts slower than the page, so the type lifts off the film. */
@@ -59,52 +58,61 @@ export function Hero() {
         scrollTrigger: { trigger: el, start: "40% top", end: "bottom top", scrub: true },
       });
 
-      /* The intro is built later, once the curtain lifts. It has to go through
-         ctx.add(): selector strings only resolve against the context scope
-         during synchronous execution, so building it straight inside the
-         callback silently targets nothing — and leaks past ctx.revert(). */
-      stopIntro = onAppReady(() =>
-        ctx.add(() => {
-          const tl = gsap.timeline({ defaults: { ease: "expo.out" } });
-
-          tl.from(frame.current, { scale: 1.16, duration: 2.2, ease: "power3.out" })
-            .from("[data-hero-rail]", { scaleY: 0, duration: 1.4 }, 0.1)
-            .from("[data-hero-eyebrow]", { yPercent: 120, opacity: 0, duration: 1 }, 0.25)
-            .from(
-              "[data-hero-line]",
-              { yPercent: 118, duration: 1.5, stagger: 0.12, ease: "expo.out" },
-              0.35,
-            )
-            .from("[data-hero-rule]", { scaleX: 0, duration: 1.5 }, 0.9)
-            .from("[data-hero-fade]", { y: 26, opacity: 0, duration: 1.1, stagger: 0.09 }, 1.05)
-            .from(
-              "[data-hero-badge]",
-              { y: 22, opacity: 0, duration: 1, stagger: 0.11, ease: "power3.out" },
-              1.25,
-            );
-
-          /* The beam falling down the cue track — the only looping motion here.
-             fromTo, not to: a from-tween would leave the beam parked mid-track
-             between repeats, and the loop has to start off-screen every pass. */
-          gsap.fromTo(
-            "[data-hero-cue]",
-            { yPercent: -110 },
-            {
-              yPercent: 210,
-              duration: 1.9,
-              repeat: -1,
-              repeatDelay: 0.35,
-              ease: "power2.inOut",
-              delay: 2.2,
-            },
-          );
-        }),
-      );
     }, el);
+
+    /* The intro is built later, once the curtain lifts. It has to go through
+       ctx.add(): selector strings only resolve against the context scope during
+       synchronous execution, so building it straight inside the callback
+       silently targets nothing — and leaks past ctx.revert().
+
+       Kept outside the context callback on purpose. `ctx` is still in its
+       temporal dead zone while gsap.context() runs its initializer, and
+       onAppReady invokes `start` synchronously whenever the curtain has already
+       lifted — which is every client-side navigation. Calling it from inside
+       threw "Cannot access 'ctx' before initialization" and took the page down
+       on any nav click, while a hard load deferred it past the hazard and
+       looked fine. */
+    const stopIntro = onAppReady(() =>
+      ctx.add(() => {
+        const tl = gsap.timeline({ defaults: { ease: "expo.out" } });
+
+        tl.from(frame.current, { scale: 1.16, duration: 2.2, ease: "power3.out" })
+          .from("[data-hero-rail]", { scaleY: 0, duration: 1.4 }, 0.1)
+          .from("[data-hero-eyebrow]", { yPercent: 120, opacity: 0, duration: 1 }, 0.25)
+          .from(
+            "[data-hero-line]",
+            { yPercent: 118, duration: 1.5, stagger: 0.12, ease: "expo.out" },
+            0.35,
+          )
+          .from("[data-hero-rule]", { scaleX: 0, duration: 1.5 }, 0.9)
+          .from("[data-hero-fade]", { y: 26, opacity: 0, duration: 1.1, stagger: 0.09 }, 1.05)
+          .from(
+            "[data-hero-badge]",
+            { y: 22, opacity: 0, duration: 1, stagger: 0.11, ease: "power3.out" },
+            1.25,
+          );
+
+        /* The beam falling down the cue track — the only looping motion here.
+           fromTo, not to: a from-tween would leave the beam parked mid-track
+           between repeats, and the loop has to start off-screen every pass. */
+        gsap.fromTo(
+          "[data-hero-cue]",
+          { yPercent: -110 },
+          {
+            yPercent: 210,
+            duration: 1.9,
+            repeat: -1,
+            repeatDelay: 0.35,
+            ease: "power2.inOut",
+            delay: 2.2,
+          },
+        );
+      }),
+    );
 
     ScrollTrigger.refresh();
     return () => {
-      stopIntro?.();
+      stopIntro();
       ctx.revert();
     };
   }, []);

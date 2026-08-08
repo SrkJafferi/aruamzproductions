@@ -26,7 +26,6 @@ export function AboutHero() {
     }
 
     const gsap = registerGsap();
-    let stopIntro: (() => void) | undefined;
 
     const ctx = gsap.context(() => {
       /* The plate drifts slower than the page, exactly as on the homepage, so
@@ -53,31 +52,30 @@ export function AboutHero() {
         scrollTrigger: { trigger: el, start: "45% top", end: "bottom top", scrub: true },
       });
 
-      stopIntro = onAppReady(() =>
-        ctx.add(() => {
-          const tl = gsap.timeline({ defaults: { ease: "expo.out" } });
-
-          tl.from(frame.current, { scale: 1.14, duration: 2, ease: "power3.out" })
-            .from(
-              "[data-about-title]",
-              { yPercent: 116, duration: 1.4, ease: "expo.out" },
-              0.2,
-            )
-            .from("[data-about-crumb]", { y: 14, opacity: 0, duration: 0.9 }, 0.7)
-            .from("[data-about-rule]", { scaleX: 0, duration: 1.4 }, 0.75)
-            .from("[data-about-mark]", { scale: 0.6, opacity: 0, duration: 1 }, 0.85)
-            .from(
-              "[data-about-line]",
-              { y: 22, opacity: 0, duration: 0.9, stagger: 0.075 },
-              0.95,
-            );
-        }),
-      );
     }, el);
+
+    /* Outside the context callback on purpose: `ctx` is still in its temporal
+       dead zone while gsap.context() runs its initializer, and onAppReady calls
+       `start` synchronously once the curtain has already lifted — which is every
+       client-side navigation. Building the intro from inside threw "Cannot
+       access 'ctx' before initialization" and took the page down on any nav
+       click, while a hard load deferred it past the hazard and looked fine. */
+    const stopIntro = onAppReady(() =>
+      ctx.add(() => {
+        const tl = gsap.timeline({ defaults: { ease: "expo.out" } });
+
+        tl.from(frame.current, { scale: 1.14, duration: 2, ease: "power3.out" })
+          .from("[data-about-title]", { yPercent: 116, duration: 1.4, ease: "expo.out" }, 0.2)
+          .from("[data-about-crumb]", { y: 14, opacity: 0, duration: 0.9 }, 0.7)
+          .from("[data-about-rule]", { scaleX: 0, duration: 1.4 }, 0.75)
+          .from("[data-about-mark]", { scale: 0.6, opacity: 0, duration: 1 }, 0.85)
+          .from("[data-about-line]", { y: 22, opacity: 0, duration: 0.9, stagger: 0.075 }, 0.95);
+      }),
+    );
 
     ScrollTrigger.refresh();
     return () => {
-      stopIntro?.();
+      stopIntro();
       ctx.revert();
     };
   }, []);

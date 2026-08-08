@@ -361,11 +361,11 @@ export function ContactMain() {
             <h2 id="contact-office-heading" className="display-md font-display">
               {contactOffice.heading}
             </h2>
-            <p className="mt-5 text-lg leading-snug sm:text-xl">{contactOffice.street}</p>
-            <p className="mt-1 text-lg leading-snug sm:text-xl" style={{ color: "var(--accent)" }}>
-              {contactOffice.city}
-            </p>
 
+            {/* No address line under the heading: the Address row below already
+                prints it, and printed twice it read as a mistake rather than as
+                emphasis. The row is the one that has to stay — it is the one
+                that opens Maps. */}
             <ul className="mt-9 flex flex-col">
               {contactOffice.rows.map((row) => {
                 const Icon = ROW_ICONS[row.icon as keyof typeof ROW_ICONS];
