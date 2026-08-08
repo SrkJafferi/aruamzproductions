@@ -3,9 +3,11 @@
 import Image from "next/image";
 import { useCallback, useEffect, useState } from "react";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
-import { featured } from "@/content/homepage";
 
-type Item = (typeof featured.images)[number];
+/* Structural, not `typeof featured.images[number]`. The About page ships its
+   own three-still gallery whose entries carry none of the homepage set's
+   bookkeeping fields, and the viewer only ever reads these four. */
+type Item = { src: string; alt: string; width: number; height: number };
 
 /**
  * Fullscreen viewer for the gallery. Keyboard driven (arrows + Escape) and

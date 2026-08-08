@@ -25,12 +25,19 @@
 *.pem
 
 # local QA harness scratch — headless Chrome profiles, screenshots, captured
-# video, server logs. The .mjs probes themselves are worth keeping.
+# video, server logs, and the candidate stills a hero was picked from. The .mjs
+# probes themselves are worth keeping.
 /.qa/cdp-*
+/.qa/cand/
 /.qa/*.png
+/.qa/*.jpg
+/.qa/*.tsv
 /.qa/*.log
 /.qa/*.webm
 /.qa/*.bin
+
+# a local full copy of the project, its own .git and node_modules included
+/backup/
 
 # debug
 npm-debug.log*

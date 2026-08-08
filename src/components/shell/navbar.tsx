@@ -3,16 +3,14 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { Menu, Moon, Sun } from "lucide-react";
+import { Menu } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { brand, navLinks, site } from "@/content/site";
-import { useTheme } from "@/components/providers/theme-provider";
 import { MobileNav } from "@/components/shell/mobile-nav";
 
 export function Navbar() {
   const [lifted, setLifted] = useState(false);
   const [open, setOpen] = useState(false);
-  const { theme, toggle } = useTheme();
 
   useEffect(() => {
     const onScroll = () => setLifted(window.scrollY > 24);
@@ -60,15 +58,10 @@ export function Navbar() {
           </ul>
 
           <div className="flex items-center gap-2 sm:gap-3">
-            <button
-              type="button"
-              onClick={toggle}
-              aria-label={theme === "dark" ? "Switch to light theme" : "Switch to dark theme"}
-              className="icon-button"
-            >
-              {theme === "dark" ? <Sun className="size-4" /> : <Moon className="size-4" />}
-            </button>
-
+            {/* The light-theme toggle sat here. Taken out at the client's
+                request while the light palette is still being settled — the
+                provider and every `light:` rule are untouched, so putting the
+                button back is a one-block change. */}
             <Link href="/contact-us" className="btn-primary hidden lg:inline-flex">
               Start a project
             </Link>

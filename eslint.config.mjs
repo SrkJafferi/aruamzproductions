@@ -22,6 +22,10 @@ const eslintConfig = [
          their body is evaluated-in-page source held in template literals —
          the app's rules read that as dead expressions and flag it. */
       ".qa/**",
+      /* A full copy of the project, dependencies and all. The ignores above are
+         root-relative, so without this every file under it — including its
+         node_modules — gets linted and buries the app's own output. */
+      "backup/**",
     ],
   },
 ];
