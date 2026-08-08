@@ -1,0 +1,408 @@
+[
+  {
+    "key": "logo",
+    "group": "brand",
+    "src": "/brand/logo.png",
+    "width": 617,
+    "height": 550
+  },
+  {
+    "key": "ceo-portrait",
+    "group": "brand",
+    "src": "/brand/ceo-portrait.png",
+    "width": 432,
+    "height": 431
+  },
+  {
+    "key": "ceo-signature",
+    "group": "brand",
+    "src": "/brand/ceo-signature.png",
+    "width": 505,
+    "height": 362
+  },
+  {
+    "key": "showreel-poster",
+    "group": "brand",
+    "src": "/brand/showreel-poster.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "key": "hero",
+    "group": "textures",
+    "src": "/textures/hero.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "key": "who-we-are",
+    "group": "textures",
+    "src": "/textures/who-we-are.jpg",
+    "width": 1372,
+    "height": 465
+  },
+  {
+    "key": "mission",
+    "group": "textures",
+    "src": "/textures/mission.jpg",
+    "width": 1372,
+    "height": 465
+  },
+  {
+    "key": "project-01",
+    "group": "projects",
+    "src": "/projects/project-01.jpeg",
+    "width": 1066,
+    "height": 1600
+  },
+  {
+    "key": "project-02",
+    "group": "projects",
+    "src": "/projects/project-02.jpeg",
+    "width": 1066,
+    "height": 1600
+  },
+  {
+    "key": "project-03",
+    "group": "projects",
+    "src": "/projects/project-03.jpeg",
+    "width": 1066,
+    "height": 1600
+  },
+  {
+    "key": "project-04",
+    "group": "projects",
+    "src": "/projects/project-04.jpeg",
+    "width": 1066,
+    "height": 1600
+  },
+  {
+    "key": "project-05",
+    "group": "projects",
+    "src": "/projects/project-05.jpg",
+    "width": 1600,
+    "height": 1800
+  },
+  {
+    "key": "project-06",
+    "group": "projects",
+    "src": "/projects/project-06.jpg",
+    "width": 746,
+    "height": 1180
+  },
+  {
+    "key": "project-07",
+    "group": "projects",
+    "src": "/projects/project-07.jpg",
+    "width": 1169,
+    "height": 770
+  },
+  {
+    "key": "project-08",
+    "group": "projects",
+    "src": "/projects/project-08.jpeg",
+    "width": 1170,
+    "height": 640
+  },
+  {
+    "key": "project-09",
+    "group": "projects",
+    "src": "/projects/project-09.jpg",
+    "width": 1170,
+    "height": 770
+  },
+  {
+    "key": "project-10",
+    "group": "projects",
+    "src": "/projects/project-10.jpeg",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "key": "project-11",
+    "group": "projects",
+    "src": "/projects/project-11.jpeg",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "key": "project-12",
+    "group": "projects",
+    "src": "/projects/project-12.jpeg",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "key": "project-13",
+    "group": "projects",
+    "src": "/projects/project-13.jpg",
+    "width": 960,
+    "height": 590
+  },
+  {
+    "key": "project-14",
+    "group": "projects",
+    "src": "/projects/project-14.jpg",
+    "width": 1049,
+    "height": 820
+  },
+  {
+    "key": "project-15",
+    "group": "projects",
+    "src": "/projects/project-15.jpg",
+    "width": 1170,
+    "height": 770
+  },
+  {
+    "key": "project-16",
+    "group": "projects",
+    "src": "/projects/project-16.jpeg",
+    "width": 1170,
+    "height": 656
+  },
+  {
+    "key": "project-17",
+    "group": "projects",
+    "src": "/projects/project-17.jpg",
+    "width": 960,
+    "height": 650
+  },
+  {
+    "key": "project-18",
+    "group": "projects",
+    "src": "/projects/project-18.jpg",
+    "width": 1170,
+    "height": 800
+  },
+  {
+    "key": "project-19",
+    "group": "projects",
+    "src": "/projects/project-19.jpeg",
+    "width": 1170,
+    "height": 642
+  },
+  {
+    "key": "project-20",
+    "group": "projects",
+    "src": "/projects/project-20.jpeg",
+    "width": 960,
+    "height": 625
+  },
+  {
+    "key": "project-21",
+    "group": "projects",
+    "src": "/projects/project-21.jpeg",
+    "width": 1600,
+    "height": 1600
+  },
+  {
+    "key": "project-22",
+    "group": "projects",
+    "src": "/projects/project-22.jpg",
+    "width": 1125,
+    "height": 819
+  },
+  {
+    "key": "project-23",
+    "group": "projects",
+    "src": "/projects/project-23.jpg",
+    "width": 1125,
+    "height": 822
+  },
+  {
+    "key": "project-24",
+    "group": "projects",
+    "src": "/projects/project-24.jpg",
+    "width": 1125,
+    "height": 828
+  },
+  {
+    "key": "project-25",
+    "group": "projects",
+    "src": "/projects/project-25.jpg",
+    "width": 1125,
+    "height": 829
+  },
+  {
+    "key": "project-26",
+    "group": "projects",
+    "src": "/projects/project-26.jpg",
+    "width": 1125,
+    "height": 823
+  },
+  {
+    "key": "project-27",
+    "group": "projects",
+    "src": "/projects/project-27.jpg",
+    "width": 1125,
+    "height": 822
+  },
+  {
+    "key": "project-28",
+    "group": "projects",
+    "src": "/projects/project-28.jpg",
+    "width": 1125,
+    "height": 809
+  },
+  {
+    "key": "project-29",
+    "group": "projects",
+    "src": "/projects/project-29.jpg",
+    "width": 900,
+    "height": 506
+  },
+  {
+    "key": "project-30",
+    "group": "projects",
+    "src": "/projects/project-30.jpg",
+    "width": 640,
+    "height": 960
+  },
+  {
+    "key": "project-31",
+    "group": "projects",
+    "src": "/projects/project-31.jpg",
+    "width": 840,
+    "height": 600
+  },
+  {
+    "key": "project-32",
+    "group": "projects",
+    "src": "/projects/project-32.jpg",
+    "width": 480,
+    "height": 720
+  },
+  {
+    "key": "client-01",
+    "group": "clients",
+    "src": "/clients/client-01.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-02",
+    "group": "clients",
+    "src": "/clients/client-02.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-03",
+    "group": "clients",
+    "src": "/clients/client-03.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-04",
+    "group": "clients",
+    "src": "/clients/client-04.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-05",
+    "group": "clients",
+    "src": "/clients/client-05.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-06",
+    "group": "clients",
+    "src": "/clients/client-06.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-07",
+    "group": "clients",
+    "src": "/clients/client-07.png",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-08",
+    "group": "clients",
+    "src": "/clients/client-08.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-09",
+    "group": "clients",
+    "src": "/clients/client-09.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-10",
+    "group": "clients",
+    "src": "/clients/client-10.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-11",
+    "group": "clients",
+    "src": "/clients/client-11.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-12",
+    "group": "clients",
+    "src": "/clients/client-12.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "nadya-mistry",
+    "group": "testimonials",
+    "src": "/testimonials/nadya-mistry.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "ejaaz-khan",
+    "group": "testimonials",
+    "src": "/testimonials/ejaaz-khan.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "syed-amjad-ali-shah",
+    "group": "testimonials",
+    "src": "/testimonials/syed-amjad-ali-shah.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "hassan-mehmood",
+    "group": "testimonials",
+    "src": "/testimonials/hassan-mehmood.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "fahad-jawaid",
+    "group": "testimonials",
+    "src": "/testimonials/fahad-jawaid.png",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "syeda-uzma-shah",
+    "group": "testimonials",
+    "src": "/testimonials/syeda-uzma-shah.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "arooba",
+    "group": "testimonials",
+    "src": "/testimonials/arooba.jpg",
+    "width": 150,
+    "height": 150
+  }
+]

@@ -1,0 +1,1029 @@
+
+	<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	
+				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+		
+            
+                        <link rel="shortcut icon" type="image/x-icon" href="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production.png">
+            <link rel="apple-touch-icon" href="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production.png"/>
+        
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://aruamzproductions.com/xmlrpc.php" />
+
+	<title>Aruamz Productions - We turn stories into visuals | Our Projects</title>
+<meta name='robots' content='noindex, nofollow' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+
+<link rel="alternate" type="application/rss+xml" title="Aruamz Productions - We turn stories into visuals &raquo; Feed" href="https://aruamzproductions.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Aruamz Productions - We turn stories into visuals &raquo; Comments Feed" href="https://aruamzproductions.com/comments/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='revslider-material-icons-css' href='https://aruamzproductions.com/wp-content/plugins/revslider/admin/assets/icons/material-icons.css?ver=6.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='revslider-basics-css-css' href='https://aruamzproductions.com/wp-content/plugins/revslider/admin/assets/css/basics.css?ver=6.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-color-picker-css-css' href='https://aruamzproductions.com/wp-content/plugins/revslider/admin/assets/css/tp-color-picker.css?ver=6.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='revbuilder-select2RS-css' href='https://aruamzproductions.com/wp-content/plugins/revslider/admin/assets/css/select2RS.css?ver=6.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://aruamzproductions.com/wp-includes/css/dashicons.min.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://aruamzproductions.com/wp-includes/css/admin-bar.min.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://aruamzproductions.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://aruamzproductions.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://aruamzproductions.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://aruamzproductions.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://aruamzproductions.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://aruamzproductions.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-default-style-css' href='https://aruamzproductions.com/wp-content/themes/bridge/style.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-font_awesome-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-font_elegant-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/elegant-icons/style.min.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-linea_icons-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/linea-icons/style.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-dripicons-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/dripicons/dripicons.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-kiko-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/kiko/kiko-all.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-stylesheet-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/stylesheet.min.css?ver=6.1.4' type='text/css' media='all' />
+<style id='bridge-stylesheet-inline-css' type='text/css'>
+   .page-id-1041.disabled_footer_top .footer_top_holder, .page-id-1041.disabled_footer_bottom .footer_bottom_holder { display: none;}
+
+
+</style>
+<link rel='stylesheet' id='bridge-print-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/print.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-dynamic-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/style_dynamic.css?ver=1775749696' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-responsive-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/responsive.min.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-dynamic-responsive-css' href='https://aruamzproductions.com/wp-content/themes/bridge/css/style_dynamic_responsive.css?ver=1775749696' type='text/css' media='all' />
+<style id='bridge-style-dynamic-responsive-inline-css' type='text/css'>
+.q_logo a {
+margin-top:25px; 
+height: 220px;
+}
+
+.countdown{
+letter-spacing: 3px;
+font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 200;
+}
+</style>
+<link rel='stylesheet' id='js_composer_front-css' href='https://aruamzproductions.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-handle-google-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7COswald%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CPoppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-core-dashboard-style-css' href='https://aruamzproductions.com/wp-content/plugins/bridge-core/modules/core-dashboard/assets/css/core-dashboard.min.css?ver=6.1.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.8' id='revmin-js'></script>
+<link rel="https://api.w.org/" href="https://aruamzproductions.com/wp-json/" /><link rel="alternate" type="application/json" href="https://aruamzproductions.com/wp-json/wp/v2/pages/1041" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aruamzproductions.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://aruamzproductions.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.4" />
+<link rel="canonical" href="https://aruamzproductions.com/our-projects/" />
+<link rel='shortlink' href='https://aruamzproductions.com/?p=1041' />
+<link rel="alternate" type="application/json+oembed" href="https://aruamzproductions.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faruamzproductions.com%2Four-projects%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://aruamzproductions.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faruamzproductions.com%2Four-projects%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.1.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){			
+			try {								
+				var pw = document.getElementById(e.c).parentNode.offsetWidth,
+					newh;
+				pw = pw===0 || isNaN(pw) ? window.innerWidth : pw;
+				e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+				e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+				e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+				e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+				e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+				e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+				e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+				if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+					newh = Math.max(e.mh,window.innerHeight);				
+				else{					
+					e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+					for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+					e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+					e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+					for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+										
+					var nl = new Array(e.rl.length),
+						ix = 0,						
+						sl;					
+					e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+					e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+					e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+					e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+					for (var i in e.rl) nl[i] = e.rl[i]<window.innerWidth ? 0 : e.rl[i];
+					sl = nl[0];									
+					for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+					var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+
+					newh =  (e.type==="carousel" && e.justify==="true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh);
+				}			
+				
+				if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+				document.getElementById(e.c).height = newh;
+				window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+			} catch(e){
+				console.log("Failure at Presize of Slider:" + e)
+			}					   
+		  };</script>
+<style type="text/css" data-type="vc_custom-css">.q_team .q_team_title_holder span{
+    font-family: Raleway,sans-serif;
+    font-size: 15px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.q_team .q_team_image{
+    overflow: hidden;
+}
+.q_team .q_team_image:hover img{
+    transform: scale(1.05);
+}
+
+.q_team .q_team_image img{
+    transition: transform 0.3s ease;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1584401136649{padding-top: 40px !important;}.vc_custom_1584364250261{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #fafafa !important;}.vc_custom_1584580781334{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #494949 !important;}.vc_custom_1584314286172{padding-top: 60px !important;padding-bottom: 60px !important;background-image: url(https://aruamzproductions.com/wp-content/uploads/2018/01/testimonials-background-image.jpg?id=75) !important;}.vc_custom_1584385693134{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #000000 !important;}.vc_custom_1584401157452{background-color: #f9f9f9 !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body data-rsssl=1 class="page-template page-template-full_width page-template-full_width-php page page-id-1041 logged-in admin-bar no-customize-support bridge-core-2.1.3  qode_popup_menu_push_text_right qode-theme-ver-20.0 qode-theme-bridge qode_header_in_grid wpb-js-composer js-comp-ver-6.1 vc_responsive" itemscope itemtype="http://schema.org/WebPage">
+
+
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://aruamzproductions.com/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/support/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://aruamzproductions.com/wp-admin/'>Aruamz Productions - We turn stories int&hellip;</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/'>Dashboard</a></li><li id='wp-admin-bar-qode_theme_menu'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/admin.php?page=qode_theme_menu'>Qode Options</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://aruamzproductions.com/wp-admin/customize.php?url=https%3A%2F%2Faruamzproductions.com%2Four-projects%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">2</span><span class="screen-reader-text updates-available-text">2 updates available</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-19" aria-hidden="true">19</span><span class="screen-reader-text comments-in-moderation-text">19 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://aruamzproductions.com/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-portfolio_page'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/post-new.php?post_type=portfolio_page'>Portfolio Item</a></li><li id='wp-admin-bar-new-testimonials'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/post-new.php?post_type=testimonials'>Testimonial</a></li><li id='wp-admin-bar-new-slides'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/post-new.php?post_type=slides'>Slide</a></li><li id='wp-admin-bar-new-carousels'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/post-new.php?post_type=carousels'>Carousel Item</a></li><li id='wp-admin-bar-new-masonry_gallery'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/post-new.php?post_type=masonry_gallery'>Masonry Gallery Item</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/user-new.php'>User</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/post.php?post=1041&#038;action=edit'>Edit Page</a></li><li id='wp-admin-bar-wp-rocket' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://aruamzproductions.com/wp-admin/options-general.php?page=wprocket'>WP Rocket</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-rocket-default' class="ab-submenu"><li id='wp-admin-bar-rocket-settings'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/options-general.php?page=wprocket'>Settings</a></li><li id='wp-admin-bar-purge-all'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/admin-post.php?action=purge_cache&#038;type=all&#038;_wp_http_referer=%2Four-projects%2F&#038;_wpnonce=e3a08158f7'>Clear cache</a></li><li id='wp-admin-bar-purge-url'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/admin-post.php?action=purge_cache&#038;type=url&#038;_wp_http_referer=%2Four-projects%2F&#038;_wpnonce=9750c64b0d'>Purge this URL</a></li><li id='wp-admin-bar-preload-cache'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/admin-post.php?action=preload&#038;_wp_http_referer=%2Four-projects%2F&#038;_wpnonce=7525ec28e7'>Preload cache</a></li><li id='wp-admin-bar-docs'><a class='ab-item' href='https://docs.wp-rocket.me/?utm_source=wp_plugin&#038;utm_medium=wp_rocket'>Documentation</a></li><li id='wp-admin-bar-faq'><a class='ab-item' href='https://wp-rocket.me/faq/?utm_source=wp_plugin&#038;utm_medium=wp_rocket'>FAQ</a></li><li id='wp-admin-bar-support'><a class='ab-item' href='https://wp-rocket.me/support/?utm_source=wp_plugin&#038;utm_medium=wp_rocket'>Support</a></li></ul></div></li><li id='wp-admin-bar-revslider' class="menupop revslider-menu"><a class='ab-item' aria-haspopup="true" href='https://aruamzproductions.com/wp-admin/admin.php?page=revslider'><span class="rs-label">Slider Revolution</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-revslider-default' class="ab-submenu"><li id='wp-admin-bar-home' class="revslider-sub-menu"><a class='ab-item' href='https://aruamzproductions.com/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=slider-1'><span class="rs-label" data-alias="home">Home</span></a></li><li id='wp-admin-bar-home-1' class="revslider-sub-menu"><a class='ab-item' href='https://aruamzproductions.com/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=slider-2'><span class="rs-label" data-alias="home-1">Home 1</span></a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://aruamzproductions.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://aruamzproductions.com/wp-admin/profile.php'>Howdy, <span class="display-name">APAdmin</span><img alt='' src='https://secure.gravatar.com/avatar/709fc49c010e9718e4d187eb884a8ad5?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/709fc49c010e9718e4d187eb884a8ad5?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' decoding='async'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://aruamzproductions.com/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/709fc49c010e9718e4d187eb884a8ad5?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/709fc49c010e9718e4d187eb884a8ad5?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/><span class='display-name'>APAdmin</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://aruamzproductions.com/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://aruamzproductions.com/wp-login.php?action=logout&#038;_wpnonce=788ec831b1'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://aruamzproductions.com/wp-login.php?action=logout&#038;_wpnonce=788ec831b1">Log Out</a>
+					</div>
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+
+<div class="wrapper">
+	<div class="wrapper_inner">
+
+    
+		<!-- Google Analytics start -->
+				<!-- Google Analytics end -->
+
+		
+	<header class=" scroll_header_top_area  regular transparent header_style_on_scroll page_header">
+    <div class="header_inner clearfix">
+                <div class="header_top_bottom_holder">
+            
+            <div class="header_bottom clearfix" style=' background-color:rgba(255, 255, 255, 0);' >
+                                <div class="container">
+                    <div class="container_inner clearfix">
+                                                    
+                            <div class="header_inner_left">
+                                									<div class="mobile_menu_button">
+		<span>
+					</span>
+	</div>
+                                <div class="logo_wrapper" >
+	<div class="q_logo">
+		<a itemprop="url" href="https://aruamzproductions.com/" >
+             <img itemprop="image" class="normal" src="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production.png" alt="Logo"> 			 <img itemprop="image" class="light" src="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production.png" alt="Logo"/> 			 <img itemprop="image" class="dark" src="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production.png" alt="Logo"/> 			 <img itemprop="image" class="sticky" src="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production.png" alt="Logo"/> 			 <img itemprop="image" class="mobile" src="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production.png" alt="Logo"/> 			 <img itemprop="image" class="popup" src="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production.png" alt="Logo"/> 		</a>
+	</div>
+	</div>                                                            </div>
+                                                                    <div class="header_inner_right">
+                                        <div class="side_menu_button_wrapper right">
+                                                                                            <div class="header_bottom_right_widget_holder"><span class='q_social_icon_holder normal_social' ><a itemprop='url' href='https://facebook.com/aruamzproductions/' target='_blank'><i class="qode_icon_font_awesome fa fa-facebook-square  simple_social" style="font-size: 18px;" ></i></a></span><span class='q_social_icon_holder normal_social' ><a itemprop='url' href='mailto:aruamzproductions@gmail.com' target='_blank'><i class="qode_icon_font_awesome fa fa-google-plus-square  simple_social" style="font-size: 18px;" ></i></a></span></div>
+                                                                                                                                    <div class="side_menu_button">
+                                                                                                	<a href="javascript:void(0)" class="popup_menu medium qode_popup_menu_push_text_right ">
+		<span class="popup_menu_inner"><i class="line">&nbsp;</i></span>	</a>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                                <nav class="main_menu drop_down right">
+                                    <ul id="menu-main-menu" class=""><li id="nav-menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"><a href="https://aruamzproductions.com/" class=""><i class="menu_icon blank fa"></i><span>Home</span><span class="plus"></span></a></li>
+<li id="nav-menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://aruamzproductions.com/about-us/" class=""><i class="menu_icon blank fa"></i><span>About US</span><span class="plus"></span></a></li>
+<li id="nav-menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://aruamzproductions.com/our-services/" class=""><i class="menu_icon blank fa"></i><span>Our Services</span><span class="plus"></span></a></li>
+<li id="nav-menu-item-1087" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item active narrow"><a href="/our-projects" class=" current "><i class="menu_icon blank fa"></i><span>Portfolio</span><span class="plus"></span></a></li>
+<li id="nav-menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://aruamzproductions.com/contact-us/" class=""><i class="menu_icon blank fa"></i><span>Contact us</span><span class="plus"></span></a></li>
+</ul>                                </nav>
+                                							    <nav class="mobile_menu">
+	<ul id="menu-main-menu-1" class=""><li id="mobile-menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://aruamzproductions.com/" class=""><span>Home</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aruamzproductions.com/about-us/" class=""><span>About US</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aruamzproductions.com/our-services/" class=""><span>Our Services</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-1087" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item active"><a href="/our-projects" class=" current "><span>Portfolio</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aruamzproductions.com/contact-us/" class=""><span>Contact us</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+</ul></nav>                                                                                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+</header>	<a id="back_to_top" href="#">
+        <span class="fa-stack">
+            <i class="qode_icon_font_awesome fa fa-arrow-up " ></i>        </span>
+	</a>
+    <div class="popup_menu_holder_outer">
+        <div class="popup_menu_holder " >
+            <div class="popup_menu_holder_inner">
+                <nav class="popup_menu">
+					<ul id="menu-main-menu-2" class=""><li id="popup-menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://aruamzproductions.com/" class=""><span>Home</span></a></li>
+<li id="popup-menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aruamzproductions.com/about-us/" class=""><span>About US</span></a></li>
+<li id="popup-menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aruamzproductions.com/our-services/" class=""><span>Our Services</span></a></li>
+<li id="popup-menu-item-1087" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item active"><a href="/our-projects" class=" current "><span>Portfolio</span></a></li>
+<li id="popup-menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aruamzproductions.com/contact-us/" class=""><span>Contact us</span></a></li>
+</ul>                </nav>
+				            </div>
+        </div>
+    </div>
+	
+	
+    
+    	
+    
+    <div class="content ">
+        <div class="content_inner  ">
+    			<div class="title_outer title_without_animation"    data-height="260">
+		<div class="title title_size_small  position_left  has_background" style="background-size:1920px auto;background-image:url(https://aruamzproductions.com/wp-content/uploads/2020/03/banner01.jpg);height:260px;">
+			<div class="image not_responsive"><img itemprop="image" src="https://aruamzproductions.com/wp-content/uploads/2020/03/banner01.jpg" alt="&nbsp;" /> </div>
+											</div>
+			</div>
+			<div class="full_width">
+	<div class="full_width_inner" >
+										<div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1584401136649 grid_section" style='background-color:#f9f9f9; text-align:center;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1584401157452"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h1>Our Projects</h1>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 9px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h4>WHAT WE HAVE DONE?</h4>
+
+		</div> 
+	</div> </div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1584364250261 grid_section" style=' text-align:center;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<div class="qode-advanced-image-gallery  qode-aig-masonry-type qode-tiny-space  qode-image-behavior-lightbox ">
+	<div class="qode-aig-inner qode-outer-space qode-aig-masonry qode-aig-three-columns">
+		<div class="qode-aig-grid-sizer"></div>
+		<div class="qode-aig-grid-gutter"></div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.467.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp-Image-2022-01-14-at-6.467">
+											<img width="1169" height="770" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.467.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.467.jpg 1169w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.467-300x198.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.467-1024x674.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.467-768x506.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.467-700x461.jpg 700w" sizes="(max-width: 1169px) 100vw, 1169px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.35 PM">
+											<img width="1170" height="645" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-300x165.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-1024x565.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-768x423.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-700x386.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.34-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.34 PM (1)">
+											<img width="1170" height="640" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.34-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.34-PM-1.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.34-PM-1-300x164.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.34-PM-1-1024x560.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.34-PM-1-768x420.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.34-PM-1-700x383.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.581.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp-Image-2022-01-14-at-7.581">
+											<img width="1170" height="770" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.581.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.581.jpg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.581-300x197.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.581-1024x674.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.581-768x505.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.581-700x461.jpg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.29-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 7.58.29 PM">
+											<img width="1170" height="644" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.29-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.29-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.29-PM-300x165.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.29-PM-1024x564.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.29-PM-768x423.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.29-PM-700x385.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.28-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 7.58.28 PM">
+											<img width="1170" height="656" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.28-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.28-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.28-PM-300x168.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.28-PM-1024x574.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.28-PM-768x431.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.28-PM-700x392.jpeg 700w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.58.28-PM-539x303.jpeg 539w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.562.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp-Image-2022-01-14-at-7.562">
+											<img width="1049" height="820" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.562.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.562.jpg 1049w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.562-300x235.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.562-1024x800.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.562-768x600.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.562-700x547.jpg 700w" sizes="(max-width: 1049px) 100vw, 1049px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 7.56.08 PM (1)">
+											<img width="1044" height="654" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-1.jpeg 1044w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-1-300x188.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-1-1024x641.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-1-768x481.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-1-700x439.jpeg 700w" sizes="(max-width: 1044px) 100vw, 1044px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 7.56.08 PM">
+											<img width="1170" height="644" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-300x165.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-1024x564.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-768x423.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.56.08-PM-700x385.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.5053.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp-Image-2022-01-14-at-6.5053">
+											<img width="1170" height="800" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.5053.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.5053.jpg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.5053-300x205.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.5053-1024x700.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.5053-768x525.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.5053-700x479.jpg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.28-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.50.28 PM">
+											<img width="1170" height="642" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.28-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.28-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.28-PM-300x165.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.28-PM-1024x562.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.28-PM-768x421.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.28-PM-700x384.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.50.27 PM (1)">
+											<img width="1170" height="650" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-1.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-1-300x167.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-1-1024x569.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-1-768x427.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-1-700x389.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.50.27 PM">
+											<img width="1170" height="649" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-300x166.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-1024x568.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-768x426.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.27-PM-700x388.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.50.26 PM (1)">
+											<img width="1170" height="643" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-1.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-1-300x165.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-1-1024x563.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-1-768x422.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-1-700x385.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.50.26 PM">
+											<img width="1170" height="649" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-300x166.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-1024x568.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-768x426.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.26-PM-700x388.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.25-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.50.25 PM">
+											<img width="1170" height="646" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.25-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.25-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.25-PM-300x166.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.25-PM-1024x565.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.25-PM-768x424.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.25-PM-700x386.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.24-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.50.24 PM (1)">
+											<img width="1170" height="643" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.24-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.24-PM-1.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.24-PM-1-300x165.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.24-PM-1-1024x563.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.24-PM-1-768x422.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.50.24-PM-1-700x385.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.462.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp-Image-2022-01-14-at-6.462">
+											<img width="960" height="650" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.462.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.462.jpg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.462-300x203.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.462-768x520.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.462-700x474.jpg 700w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.41 PM (1)">
+											<img width="960" height="540" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-1.jpeg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-1-300x169.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-1-768x432.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-1-700x394.jpeg 700w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-1-539x303.jpeg 539w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.463.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp-Image-2022-01-14-at-6.463">
+											<img width="1170" height="770" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.463.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.463.jpg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.463-300x197.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.463-1024x674.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.463-768x505.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.463-700x461.jpg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.41 PM">
+											<img width="960" height="720" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM.jpeg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-300x225.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-768x576.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-800x600.jpeg 800w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.41-PM-700x525.jpeg 700w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-2.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.40 PM (2)">
+											<img width="960" height="720" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-2.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-2.jpeg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-2-300x225.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-2-768x576.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-2-800x600.jpeg 800w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-2-700x525.jpeg 700w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.40 PM (1)">
+											<img width="960" height="720" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-1.jpeg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-1-300x225.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-1-768x576.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-1-800x600.jpeg 800w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-1-700x525.jpeg 700w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.40 PM">
+											<img width="960" height="720" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM.jpeg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-300x225.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-768x576.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-800x600.jpeg 800w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.40-PM-700x525.jpeg 700w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-2.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.39 PM (2)">
+											<img width="960" height="720" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-2.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-2.jpeg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-2-300x225.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-2-768x576.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-2-800x600.jpeg 800w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-2-700x525.jpeg 700w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.39 PM">
+											<img width="1170" height="649" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-300x166.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-1024x568.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-768x426.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.39-PM-700x388.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.38 PM (1)">
+											<img width="1170" height="660" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1-300x169.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1-1024x578.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1-768x433.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1-700x395.jpeg 700w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1-539x303.jpeg 539w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.38 PM">
+											<img width="1170" height="801" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-300x205.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-1024x701.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-768x526.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.38-PM-700x479.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.37-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.37 PM">
+											<img width="1170" height="772" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.37-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.37-PM.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.37-PM-300x198.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.37-PM-1024x676.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.37-PM-768x507.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.37-PM-700x462.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.36 PM (1)">
+											<img width="1170" height="772" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1.jpeg 1170w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1-300x198.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1-1024x676.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1-768x507.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1-700x462.jpeg 700w" sizes="(max-width: 1170px) 100vw, 1170px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.36 PM">
+											<img width="1600" height="1600" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM.jpeg 1600w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-300x300.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1024x1024.jpeg 1024w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-150x150.jpeg 150w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-768x768.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1536x1536.jpeg 1536w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-570x570.jpeg 570w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-500x500.jpeg 500w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-1000x1000.jpeg 1000w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.36-PM-700x700.jpeg 700w" sizes="(max-width: 1600px) 100vw, 1600px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-1.jpeg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp Image 2022-01-14 at 6.46.35 PM (1)">
+											<img width="960" height="625" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-1.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-1.jpeg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-1-300x195.jpeg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-1-768x500.jpeg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-1-400x260.jpeg 400w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-6.46.35-PM-1-700x456.jpeg 700w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.491.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="WhatsApp-Image-2022-01-14-at-7.491">
+											<img width="960" height="590" src="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.491.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.491.jpg 960w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.491-300x184.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.491-768x472.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-14-at-7.491-700x430.jpg 700w" sizes="(max-width: 960px) 100vw, 960px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3b9639c65d43d411.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3b9639c65d43d411">
+											<img width="480" height="720" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3b9639c65d43d411.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3b9639c65d43d411.jpg 480w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3b9639c65d43d411-200x300.jpg 200w" sizes="(max-width: 480px) 100vw, 480px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bb69e6e22e44812.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3bb69e6e22e44812">
+											<img width="900" height="600" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bb69e6e22e44812.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bb69e6e22e44812.jpg 900w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bb69e6e22e44812-300x200.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bb69e6e22e44812-768x512.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bb69e6e22e44812-700x467.jpg 700w" sizes="(max-width: 900px) 100vw, 900px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bbdc43b7340613.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3bbdc43b7340613">
+											<img width="840" height="600" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bbdc43b7340613.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bbdc43b7340613.jpg 840w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bbdc43b7340613-300x214.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bbdc43b7340613-768x549.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bbdc43b7340613-700x500.jpg 700w" sizes="(max-width: 840px) 100vw, 840px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bc9295c95acc214.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3bc9295c95acc214">
+											<img width="640" height="960" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bc9295c95acc214.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bc9295c95acc214.jpg 640w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bc9295c95acc214-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bd34edb07594615.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3bd34edb07594615">
+											<img width="900" height="506" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bd34edb07594615.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bd34edb07594615.jpg 900w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bd34edb07594615-300x169.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bd34edb07594615-768x432.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bd34edb07594615-700x394.jpg 700w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3bd34edb07594615-539x303.jpg 539w" sizes="(max-width: 900px) 100vw, 900px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a2dff3a118b117.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3a2dff3a118b117">
+											<img width="1125" height="828" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a2dff3a118b117.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a2dff3a118b117.jpg 1125w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a2dff3a118b117-300x221.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a2dff3a118b117-1024x754.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a2dff3a118b117-768x565.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a2dff3a118b117-700x515.jpg 700w" sizes="(max-width: 1125px) 100vw, 1125px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a1e2fcf7f79866.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3a1e2fcf7f79866">
+											<img width="1125" height="822" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a1e2fcf7f79866.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a1e2fcf7f79866.jpg 1125w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a1e2fcf7f79866-300x219.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a1e2fcf7f79866-1024x748.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a1e2fcf7f79866-768x561.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a1e2fcf7f79866-700x511.jpg 700w" sizes="(max-width: 1125px) 100vw, 1125px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a38c68b55b5658.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3a38c68b55b5658">
+											<img width="1125" height="829" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a38c68b55b5658.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a38c68b55b5658.jpg 1125w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a38c68b55b5658-300x221.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a38c68b55b5658-1024x755.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a38c68b55b5658-768x566.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a38c68b55b5658-700x516.jpg 700w" sizes="(max-width: 1125px) 100vw, 1125px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a61c9d8f3eac8a.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3a61c9d8f3eac8a">
+											<img width="1125" height="823" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a61c9d8f3eac8a.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a61c9d8f3eac8a.jpg 1125w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a61c9d8f3eac8a-300x219.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a61c9d8f3eac8a-1024x749.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a61c9d8f3eac8a-768x562.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a61c9d8f3eac8a-700x512.jpg 700w" sizes="(max-width: 1125px) 100vw, 1125px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a524039a2b2b69.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3a524039a2b2b69">
+											<img width="1125" height="822" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a524039a2b2b69.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a524039a2b2b69.jpg 1125w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a524039a2b2b69-300x219.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a524039a2b2b69-1024x748.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a524039a2b2b69-768x561.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3a524039a2b2b69-700x511.jpg 700w" sizes="(max-width: 1125px) 100vw, 1125px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3c8931d7cc361616.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a3c8931d7cc361616">
+											<img width="1125" height="756" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3c8931d7cc361616.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3c8931d7cc361616.jpg 1125w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3c8931d7cc361616-300x202.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3c8931d7cc361616-1024x688.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3c8931d7cc361616-768x516.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a3c8931d7cc361616-700x470.jpg 700w" sizes="(max-width: 1125px) 100vw, 1125px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39ed4794e14fb73.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a39ed4794e14fb73">
+											<img width="1125" height="809" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39ed4794e14fb73.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39ed4794e14fb73.jpg 1125w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39ed4794e14fb73-300x216.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39ed4794e14fb73-1024x736.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39ed4794e14fb73-768x552.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39ed4794e14fb73-700x503.jpg 700w" sizes="(max-width: 1125px) 100vw, 1125px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39fdb93050b95f4.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a39fdb93050b95f4">
+											<img width="1125" height="803" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39fdb93050b95f4.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39fdb93050b95f4.jpg 1125w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39fdb93050b95f4-300x214.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39fdb93050b95f4-1024x731.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39fdb93050b95f4-768x548.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a39fdb93050b95f4-700x500.jpg 700w" sizes="(max-width: 1125px) 100vw, 1125px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397f69fb1b56a42.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a397f69fb1b56a42">
+											<img width="678" height="452" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397f69fb1b56a42.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397f69fb1b56a42.jpg 678w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397f69fb1b56a42-300x200.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+								<div class="qode-aig-image qode-item-space qode-aig-default-masonry-item">
+				<div class="qode-aig-image-inner">
+											<a itemprop="image" class="qode-aig-lightbox" href="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397141243c2a481.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-955]" title="!cid_1690a397141243c2a481">
+											<img width="1027" height="625" src="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397141243c2a481.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397141243c2a481.jpg 1027w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397141243c2a481-300x183.jpg 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397141243c2a481-1024x623.jpg 1024w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397141243c2a481-768x467.jpg 768w, https://aruamzproductions.com/wp-content/uploads/2020/03/cid_1690a397141243c2a481-700x426.jpg 700w" sizes="(max-width: 1027px) 100vw, 1027px" />						<span class="aig-gallery-hover">
+															<span class="icon-arrows-plus"></span> 
+													</span>
+											</a>
+									</div>
+			</div>
+			</div>
+</div></div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1584580781334 grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><span data-type="normal" data-hover-icon-color="#ffffff" class="qode_icon_shortcode  q_font_awsome_icon fa-3x pull-center q_icon_animation" style=" "><i class="qode_icon_font_awesome fa fa-stack-exchange qode_icon_element" style="color: #e5c524;" ></i></span>	<div class="vc_empty_space"  style="height: 14px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h1 style="font-size: 38px; text-align: center;"><span style="color: #ffffff;">Company Facts</span></h1>
+<p style="text-align: center; line-height: 38px;"> <span style="color: #ffffff; text-align: center;">Some quick facts and statistics about Aruamz Productions</span></p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 10px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_counter_holder  center" style=""><span class="counter  zero" style="color: #e5c524;font-size: 78px;font-weight: 400;">2017</span><p class="counter_text" style="font-size: 30px;font-weight: 400;text-transform: none;color: #ffffff;">Established</p></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_counter_holder  center" style=""><span class="counter  zero" style="color: #e5c524;font-size: 78px;font-weight: 400;">5</span><p class="counter_text" style="font-size: 30px;font-weight: 400;text-transform: none;color: #ffffff;">Employees</p></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_counter_holder  center" style=""><span class="counter  zero" style="color: #e5c524;font-size: 78px;font-weight: 400;">11</span><p class="counter_text" style="font-size: 30px;font-weight: 400;text-transform: none;color: #ffffff;">Clients</p></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_counter_holder  center" style=""><span class="counter  zero" style="color: #e5c524;font-size: 78px;font-weight: 400;">30</span><p class="counter_text" style="font-size: 30px;font-weight: 400;text-transform: none;color: #ffffff;">Projects</p></div></div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1584314286172 grid_section" style=' text-align:center;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-2 vc_col-lg-8"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>what they say</h2>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 18px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<div class='testimonials_holder clearfix dark'><div class="testimonials testimonials_carousel" data-show-navigation="yes" data-animation-type="fade" data-animation-speed="" data-auto-rotate-slides="3" data-number-per-slide="1"><ul class="slides"><li id="testimonials76" class="testimonial_content"><div class="testimonial_content_inner"><div class="testimonial_image_holder"><img itemprop="image" src="https://aruamzproductions.com/wp-content/uploads/2018/01/testi3-e1584389198726.jpg" /></div><div class="testimonial_text_holder"><div class="testimonial_text_inner" style=""><p>A difficult task but Zara you did a wonderful job! Really great working with Aruamz productions.</p><p class="testimonial_author" style="font-size: 18px;">Arooba - Facilities executive (Engro Foods)</p></div></div></div></li><li id="testimonials884" class="testimonial_content"><div class="testimonial_content_inner"><div class="testimonial_image_holder"><img itemprop="image" src="https://aruamzproductions.com/wp-content/uploads/2020/03/testi9-e1584626473126.jpg" /></div><div class="testimonial_text_holder"><div class="testimonial_text_inner" style=""><p>We’ve worked with Aruamz Productions on quite a few projects, mainly on digital animations. They are great to work with, and always deliver on budget and on time. They are flexible, accommodating, and take the time to understand our requirements.</p><p class="testimonial_author" style="font-size: 18px;">Ejaaz Khan - Managing director TSA Clifton Campus</p></div></div></div></li><li id="testimonials78" class="testimonial_content"><div class="testimonial_content_inner"><div class="testimonial_image_holder"><img itemprop="image" src="https://aruamzproductions.com/wp-content/uploads/2018/01/testi1-2-e1584389290395.png" /></div><div class="testimonial_text_holder"><div class="testimonial_text_inner" style=""><p>I was looking for a film maker for my documentary feature film and found in Zahra Shah more than I knew I needed, wanted or thought possible. Zahra was a calm in the storm that is documentary filmmaking, and made this dream project of my lifetime better and more successful than I could ever have imagined.</p><p class="testimonial_author" style="font-size: 18px;">Fahad Jawaid - Assistant manager talent acquisition (Engro Foods)</p></div></div></div></li><li id="testimonials503" class="testimonial_content"><div class="testimonial_content_inner"><div class="testimonial_image_holder"><img itemprop="image" src="https://aruamzproductions.com/wp-content/uploads/2020/03/testi4-e1584389451557.jpg" /></div><div class="testimonial_text_holder"><div class="testimonial_text_inner" style=""><p>Zahra’s competence, professionalism, intelligence, and mentoring spirit have made my experience of documentary film making so enjoyable and intellectually stimulating.</p><p class="testimonial_author" style="font-size: 18px;">Hassan Mehmood - CEO HAMDAN REALM</p></div></div></div></li><li id="testimonials1031" class="testimonial_content"><div class="testimonial_content_inner"><div class="testimonial_image_holder"><img itemprop="image" src="https://aruamzproductions.com/wp-content/uploads/2021/12/Nadia.jpg" /></div><div class="testimonial_text_holder"><div class="testimonial_text_inner" style=""><p>Zarah is one of those individuals who listens to and understands the needs of her clients. She takes in to account the feedback and does her best to satisfy her customers. I wish her the very best in her professional journey!</p><p class="testimonial_author" style="font-size: 18px;">Nadya Mistry - CEO</p></div></div></div></li></ul></div></div></div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1584385693134 grid_section" style=' text-align:center;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-2 vc_col-lg-8"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h4><span style="color: #b3b3b3;">Get The Latest Updates</span></h4>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ffffff;">subscribe for our newsletter</span></h2>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 51px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<div role="form" class="wpcf7" id="wpcf7-f65-p1041-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/our-projects/#wpcf7-f65-p1041-o1" method="post" class="wpcf7-form cf7_custom_style_1" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="65" />
+<input type="hidden" name="_wpcf7_version" value="5.1.7" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f65-p1041-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="1041" />
+</div>
+<div class="two_columns_form_with_space">
+<div class="column_left">
+ <span class="wpcf7-form-control-wrap your-email"><input type="text" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Email..." /></span>
+</div>
+<div class="column_right">
+ <input type="submit" value="Subscribe" class="wpcf7-form-control wpcf7-submit" />
+</div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div></div></div></div></div>
+										 
+												</div>
+	</div>
+				
+	</div>
+</div>
+
+
+
+	<footer >
+		<div class="footer_inner clearfix">
+				<div class="footer_top_holder">
+            			<div class="footer_top">
+								<div class="container">
+					<div class="container_inner">
+																	<div class="three_columns clearfix">
+								<div class="column1 footer_col1">
+									<div class="column_inner">
+										<div id="media_image-2" class="widget widget_media_image"><img width="135" height="120" src="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production-300x267.png" class="image wp-image-6  attachment-135x120 size-135x120" alt="" decoding="async" style="max-width: 100%; height: auto;" srcset="https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production-300x267.png 300w, https://aruamzproductions.com/wp-content/uploads/2020/03/Aruamz-production-e1584807878597.png 101w" sizes="(max-width: 135px) 100vw, 135px" /></div>									</div>
+								</div>
+								<div class="column2 footer_col2">
+									<div class="column_inner">
+										<span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#c0c0c0><a itemprop='url' href='https://facebook.com/aruamzproductions/' target='_blank'><i class="qode_icon_font_awesome fa fa-facebook-f  simple_social" style="color: #ffffff;margin: 20px;font-size: 18px;" ></i></a></span><span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#c0c0c0><a itemprop='url' href='https://www.instagram.com/isyedazahrashah/' target='_blank'><i class="qode_icon_font_awesome fa fa-instagram  simple_social" style="color: #ffffff;margin: 20px;font-size: 18px;" ></i></a></span><span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#c0c0c0><a itemprop='url' href='mailto:aruamzproductions@gmail.com' target='_blank'><i class="qode_icon_font_awesome fa fa-envelope  simple_social" style="color: #ffffff;margin: 20px; margin-top:60px;;" ></i></a></span><div id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></div>									</div>
+								</div>
+								<div class="column3 footer_col3">
+									<div class="column_inner">
+										<div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div align="right" style="color:#c4c4c4; font-size:13px;margin-top:40px;">Copyright © 2026 Aruamz Productions<br/>All Rights Reserved.<br/></div>
+</div></div>									</div>
+								</div>
+							</div>
+															</div>
+				</div>
+							</div>
+							<svg class="angled-section svg-footer-bottom" preserveAspectRatio="none" viewBox="0 0 86 86" width="100%" height="86">
+											<polygon points="0,86 86,0 86,86" />
+									</svg>
+					</div>
+							<div class="footer_bottom_holder">
+                									<div class="footer_bottom">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu-3" class="menu"><li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-449"><a href="https://aruamzproductions.com/">Home</a></li>
+<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="https://aruamzproductions.com/about-us/">About US</a></li>
+<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://aruamzproductions.com/our-services/">Our Services</a></li>
+<li id="menu-item-1087" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1087"><a href="/our-projects" aria-current="page">Portfolio</a></li>
+<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://aruamzproductions.com/contact-us/">Contact us</a></li>
+</ul></div>			</div>
+								</div>
+				</div>
+	</footer>
+		
+</div>
+</div>
+<script type="text/html" id="wpb-modifications"></script><script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/admin-bar.min.js?ver=6.1.4' id='admin-bar-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/aruamzproductions.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.2' id='jquery-ui-droppable-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.13.2' id='jquery-ui-progressbar-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/selectable.min.js?ver=1.13.2' id='jquery-ui-selectable-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.13.2' id='jquery-ui-spinner-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.13.2' id='jquery-ui-tooltip-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2' id='jquery-effects-core-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.13.2' id='jquery-effects-blind-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.13.2' id='jquery-effects-bounce-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.13.2' id='jquery-effects-clip-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.13.2' id='jquery-effects-drop-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.13.2' id='jquery-effects-explode-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.13.2' id='jquery-effects-fade-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.13.2' id='jquery-effects-fold-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.13.2' id='jquery-effects-highlight-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.13.2' id='jquery-effects-pulsate-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.13.2' id='jquery-effects-size-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.13.2' id='jquery-effects-scale-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.13.2' id='jquery-effects-shake-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.13.2' id='jquery-effects-slide-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.13.2' id='jquery-effects-transfer-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/doubletaptogo.js?ver=6.1.4' id='doubleTapToGo-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/modernizr.min.js?ver=6.1.4' id='modernizr-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.appear.js?ver=6.1.4' id='appear-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/counter.js?ver=6.1.4' id='counter-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/easypiechart.js?ver=6.1.4' id='easyPieChart-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/mixitup.js?ver=6.1.4' id='mixItUp-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.prettyPhoto.js?ver=6.1.4' id='prettyphoto-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.fitvids.js?ver=6.1.4' id='fitvids-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.flexslider-min.js?ver=6.1.4' id='flexslider-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.1.4' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.1.4' id='wp-mediaelement-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/infinitescroll.min.js?ver=6.1.4' id='infiniteScroll-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.waitforimages.js?ver=6.1.4' id='waitforimages-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0' id='jquery-form-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/waypoints.min.js?ver=6.1.4' id='waypoints-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jplayer.min.js?ver=6.1.4' id='jplayer-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/bootstrap.carousel.js?ver=6.1.4' id='bootstrapCarousel-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/skrollr.js?ver=6.1.4' id='skrollr-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/Chart.min.js?ver=6.1.4' id='charts-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.easing.1.3.js?ver=6.1.4' id='easing-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/abstractBaseClass.js?ver=6.1.4' id='abstractBaseClass-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.countdown.js?ver=6.1.4' id='countdown-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.multiscroll.min.js?ver=6.1.4' id='multiscroll-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.justifiedGallery.min.js?ver=6.1.4' id='justifiedGallery-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/bigtext.js?ver=6.1.4' id='bigtext-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.sticky-kit.min.js?ver=6.1.4' id='stickyKit-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/owl.carousel.min.js?ver=6.1.4' id='owlCarousel-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/typed.js?ver=6.1.4' id='typed-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js?ver=6.1.4' id='carouFredSel-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/lemmon-slider.min.js?ver=6.1.4' id='lemmonSlider-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js?ver=6.1.4' id='one_page_scroll-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=6.1.4' id='mousewheel-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js?ver=6.1.4' id='touchSwipe-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.isotope.min.js?ver=6.1.4' id='isotope-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min.js?ver=6.1.4' id='packery-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.stretch.js?ver=6.1.4' id='stretch-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/imagesloaded.js?ver=6.1.4' id='imagesLoaded-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/rangeslider.min.js?ver=6.1.4' id='rangeSlider-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.event.move.js?ver=6.1.4' id='eventMove-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/jquery.twentytwenty.js?ver=6.1.4' id='twentytwenty-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/swiper.min.js?ver=6.1.4' id='swiper-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/TweenLite.min.js?ver=6.1.4' id='TweenLite-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/ScrollToPlugin.min.js?ver=6.1.4' id='ScrollToPlugin-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/smoothPageScroll.min.js?ver=6.1.4' id='smoothPageScroll-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyD0_px9okUgbB-KUyNvW59nfVKvU3tAmx0&#038;ver=6.1.4' id='google_map_api-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/default_dynamic.js?ver=1775749696' id='bridge-default-dynamic-js'></script>
+<script type='text/javascript' id='bridge-default-js-extra'>
+/* <![CDATA[ */
+var QodeAdminAjax = {"ajaxurl":"https:\/\/aruamzproductions.com\/wp-admin\/admin-ajax.php"};
+var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart...","page_scroll_amount_for_sticky":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/default.min.js?ver=6.1.4' id='bridge-default-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-includes/js/comment-reply.min.js?ver=6.1.4' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' id='qode-like-js-extra'>
+/* <![CDATA[ */
+var qodeLike = {"ajaxurl":"https:\/\/aruamzproductions.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aruamzproductions.com/wp-content/themes/bridge/js/plugins/qode-like.min.js?ver=6.1.4' id='qode-like-js'></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function(){
+				if(jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0){
+					var aliases = new Array();
+					jQuery('rs-module-wrap').each(function(){
+						aliases.push(jQuery(this).data('alias'));
+					});
+					
+					if(aliases.length > 0){
+						jQuery('#wp-admin-bar-revslider-default li').each(function(){
+							var li = jQuery(this),
+								t = jQuery.trim(li.find('.ab-item .rs-label').data('alias')); //text()
+							
+							if(jQuery.inArray(t,aliases)!=-1){
+							}else{
+								li.remove();
+							}
+						});
+					}
+				}else{
+					jQuery('#wp-admin-bar-revslider').remove();
+				}
+			});
+		</script>
+		
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5e906afc69e9320caac24867/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+
+</body>
+</html>
