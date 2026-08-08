@@ -18,6 +18,10 @@ const eslintConfig = [
       "out/**",
       "build/**",
       "next-env.d.ts",
+      /* Headless-Chrome QA probes. They drive a browser over CDP, so most of
+         their body is evaluated-in-page source held in template literals —
+         the app's rules read that as dead expressions and flag it. */
+      ".qa/**",
     ],
   },
 ];

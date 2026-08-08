@@ -149,7 +149,7 @@ const BEFORE =
   "radial-gradient(120% 90% at 78% 32%, transparent 30%, rgb(8 8 8 / 0.72) 100%)," +
   "linear-gradient(to top, var(--bg) 2%, rgb(8 8 8 / 0.82) 26%, rgb(8 8 8 / 0.28) 62%, rgb(8 8 8 / 0.55))";
 const swapped = await ev(`(()=>{const holder=${HERO}.querySelector("div[aria-hidden]");
-  const scrim=holder&&holder.querySelector("[data-hero-exit]");
+  const scrim=holder&&holder.querySelector("[data-hero-scrim]");
   if(!scrim) return null;
   window.__scrim=scrim; scrim.style.opacity="0";
   const old=document.createElement("div"); old.id="__oldscrim";

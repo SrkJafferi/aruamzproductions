@@ -41,10 +41,20 @@ export function Hero() {
         scrollTrigger: { trigger: el, start: "top top", end: "bottom top", scrub: true },
       });
 
-      /* Type and scrim fade out as the next section arrives. */
+      /* The type lifts and fades as the next section arrives. */
       gsap.to(el.querySelectorAll("[data-hero-exit]"), {
         opacity: 0,
         y: -40,
+        ease: "none",
+        scrollTrigger: { trigger: el, start: "40% top", end: "bottom top", scrub: true },
+      });
+
+      /* The scrim layers fade with it, but they must not travel. They are
+         full-bleed backgrounds: sliding one up by 40px drags its own bottom
+         edge into frame, so the last 40px of the section lose their cover and
+         a strip of raw footage appears above the boundary. Opacity only. */
+      gsap.to("[data-hero-scrim-fade]", {
+        opacity: 0,
         ease: "none",
         scrollTrigger: { trigger: el, start: "40% top", end: "bottom top", scrub: true },
       });
@@ -155,11 +165,16 @@ export function Hero() {
             *column* instead of by row leaves the entire right-hand side of the
             frame open, which is where the picture actually gets to be seen.
 
-            The layers are wrapped so they fade out together on scroll — a
-            partial fade would show the seams between them. */}
-        <div data-hero-exit className="absolute inset-0">
+            The three type-serving layers are wrapped together so they fade as
+            one — a partial fade would show the seams between them. */}
+        <div data-hero-scrim className="absolute inset-0">
           {/* 1. Bottom: the deepest layer, under the headline block, and the
-                 handoff into the next section's background. */}
+                 handoff into the next section's background.
+
+                 This one never fades. The other three exist to serve the type,
+                 so they can leave when the type does — but this layer is also
+                 the seam between the footage and the next section, and fading
+                 it mid-scroll uncovers the join as a hard horizontal line. */}
           <div
             className="absolute inset-0"
             style={{
@@ -167,48 +182,49 @@ export function Hero() {
                 "linear-gradient(to top, var(--bg) 2%, rgb(8 8 8 / 0.78) 22%, rgb(8 8 8 / 0.30) 46%, transparent 64%)",
             }}
           />
-          {/* 2. Left: carries the type that the vertical layer no longer
-                 reaches — the eyebrow up at 79% of the height, and the vertical
-                 EST. marker down the rail. Gone by 60% across, so it never
-                 touches the open half.
+          <div data-hero-scrim-fade className="absolute inset-0">
+            {/* 2. Left: carries the type that the vertical layer no longer
+                   reaches — the eyebrow up at 79% of the height, and the
+                   vertical EST. marker down the rail. Gone by 60% across, so it
+                   never touches the open half.
 
-                 Gold at 11px is small text by WCAG, so the eyebrow needs 4.5:1,
-                 not the 3:1 the headline gets — which is why this layer is the
-                 heaviest of the four despite covering the least frame. */}
-          <div
-            className="absolute inset-0"
-            style={{
-              background:
-                "linear-gradient(to right, rgb(8 8 8 / 0.86) 0%, rgb(8 8 8 / 0.58) 26%, rgb(8 8 8 / 0.2) 44%, transparent 60%)",
-            }}
-          />
-          {/* 2b. Below lg the copy is no longer in a column — the headline and
-                  eyebrow run the full width — so layer 2 runs out from under
-                  them and the eyebrow lands at 4.6:1, barely over the 4.5
-                  floor and only across the frames we sampled. A flat wash
-                  fixes it, and it costs nothing here: there is no open right
-                  half to keep clear at this width. */}
-          <div
-            className="absolute inset-0 lg:hidden"
-            style={{ background: "rgb(8 8 8 / 0.22)" }}
-          />
-          {/* 3. Top: a short strip for the navbar, which is transparent until
-                 you scroll and until then has nothing behind it but footage. */}
-          <div
-            className="absolute inset-0"
-            style={{
-              background: "linear-gradient(to bottom, rgb(8 8 8 / 0.58), transparent 15%)",
-            }}
-          />
-          {/* 4. Vignette, kept light — it is holding the corners together now,
-                 not doing the legibility work. */}
-          <div
-            className="absolute inset-0"
-            style={{
-              background:
-                "radial-gradient(120% 90% at 72% 34%, transparent 48%, rgb(8 8 8 / 0.34) 100%)",
-            }}
-          />
+                   Gold at 11px is small text by WCAG, so the eyebrow needs
+                   4.5:1, not the 3:1 the headline gets — which is why this
+                   layer is the heaviest of the four despite covering the least
+                   frame. */}
+            <div
+              className="absolute inset-0"
+              style={{
+                background:
+                  "linear-gradient(to right, rgb(8 8 8 / 0.86) 0%, rgb(8 8 8 / 0.58) 26%, rgb(8 8 8 / 0.2) 44%, transparent 60%)",
+              }}
+            />
+            {/* 2b. Below lg the copy is no longer in a column — the headline
+                    and eyebrow run the full width — so layer 2 runs out from
+                    under them and the eyebrow lands at 4.6:1, barely over the
+                    4.5 floor and only across the frames we sampled. A flat wash
+                    fixes it, and it costs nothing here: there is no open right
+                    half to keep clear at this width. */}
+            <div className="absolute inset-0 lg:hidden" style={{ background: "rgb(8 8 8 / 0.22)" }} />
+            {/* 3. Top: a short strip for the navbar, which is transparent until
+                   you scroll and until then has nothing behind it but
+                   footage. */}
+            <div
+              className="absolute inset-0"
+              style={{
+                background: "linear-gradient(to bottom, rgb(8 8 8 / 0.58), transparent 15%)",
+              }}
+            />
+            {/* 4. Vignette, kept light — it is holding the corners together
+                   now, not doing the legibility work. */}
+            <div
+              className="absolute inset-0"
+              style={{
+                background:
+                  "radial-gradient(120% 90% at 72% 34%, transparent 48%, rgb(8 8 8 / 0.34) 100%)",
+              }}
+            />
+          </div>
         </div>
         <div className="grain absolute inset-0" />
       </div>
