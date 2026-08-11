@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useRef } from "react";
 import { ChevronRight, Images } from "lucide-react";
-import { projectsGallery, projectsHero } from "@/content/projects";
+import { projectsHero } from "@/content/projects";
 import { registerGsap, ScrollTrigger } from "@/lib/gsap";
 import { onAppReady } from "@/lib/app-ready";
 
@@ -201,26 +201,6 @@ export function ProjectsHero() {
         >
           <Images className="size-7" strokeWidth={1.4} />
         </span>
-
-        {/* The one piece of furniture the hero adds, and it is counted from the
-            gallery rather than written down — the label can never disagree with
-            how many stills the page actually renders. */}
-        <div data-prj-hero data-prj-cta className="mt-10">
-          <Link
-            href="#projects-gallery"
-            className="group inline-flex min-h-11 items-center gap-3 rounded-full border px-6 py-3 font-mono text-[0.6875rem] font-semibold tracking-[0.22em] text-white/90 uppercase backdrop-blur-md transition-all duration-500 ease-[var(--ease-out-quint)] hover:-translate-y-0.5 hover:border-[var(--accent)] hover:text-[var(--accent)]"
-            style={{
-              borderColor: "rgb(255 255 255 / 0.18)",
-              backgroundColor: "rgb(8 8 8 / 0.72)",
-            }}
-          >
-            View all {projectsGallery.images.length} images
-            <ChevronRight
-              aria-hidden
-              className="size-3.5 transition-transform duration-500 ease-[var(--ease-out-quint)] group-hover:translate-x-1"
-            />
-          </Link>
-        </div>
       </div>
     </section>
   );

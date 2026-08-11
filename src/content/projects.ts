@@ -33,13 +33,13 @@ export const projectsHero = {
  */
 const order = [
   "project-07", "project-33", "project-08", "project-15", "project-34", "project-16",
-  "project-14", "project-35", "project-36", "project-18", "project-19", "project-37",
+  "project-14", "project-36", "project-18", "project-19", "project-37",
   "project-38", "project-39", "project-40", "project-41", "project-42", "project-17",
-  "project-43", "project-09", "project-11", "project-10", "project-44", "project-12",
+  "project-43", "project-09", "project-11", "project-10", "project-12",
   "project-45", "project-46", "project-47", "project-48", "project-49", "project-50",
   "project-21", "project-20", "project-13", "project-32", "project-51", "project-31",
-  "project-30", "project-29", "project-24", "project-23", "project-25", "project-26",
-  "project-27", "project-52", "project-28", "project-53", "project-54", "project-55",
+  "project-30", "project-29", "project-24", "project-25", "project-26",
+  "project-27", "project-28", "project-53", "project-55",
 ] as const;
 
 export const projectsGallery = {

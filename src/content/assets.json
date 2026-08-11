@@ -203,13 +203,6 @@
     "height": 819
   },
   {
-    "key": "project-23",
-    "group": "projects",
-    "src": "/projects/project-23.jpg",
-    "width": 1125,
-    "height": 822
-  },
-  {
     "key": "project-24",
     "group": "projects",
     "src": "/projects/project-24.jpg",
@@ -287,13 +280,6 @@
     "height": 644
   },
   {
-    "key": "project-35",
-    "group": "projects",
-    "src": "/projects/project-35.jpeg",
-    "width": 1044,
-    "height": 654
-  },
-  {
     "key": "project-36",
     "group": "projects",
     "src": "/projects/project-36.jpeg",
@@ -350,13 +336,6 @@
     "height": 540
   },
   {
-    "key": "project-44",
-    "group": "projects",
-    "src": "/projects/project-44.jpeg",
-    "width": 960,
-    "height": 720
-  },
-  {
     "key": "project-45",
     "group": "projects",
     "src": "/projects/project-45.jpeg",
@@ -406,25 +385,11 @@
     "height": 600
   },
   {
-    "key": "project-52",
-    "group": "projects",
-    "src": "/projects/project-52.jpg",
-    "width": 1125,
-    "height": 756
-  },
-  {
     "key": "project-53",
     "group": "projects",
     "src": "/projects/project-53.jpg",
     "width": 1125,
     "height": 803
-  },
-  {
-    "key": "project-54",
-    "group": "projects",
-    "src": "/projects/project-54.jpg",
-    "width": 678,
-    "height": 452
   },
   {
     "key": "project-55",
