@@ -323,9 +323,23 @@
     will-change: opacity, transform;
   }
 
+  /* Tiles that animate without carrying `.reveal` — the projects gallery marks
+     its own — settle through this one. */
   .reveal-done {
     opacity: 1;
     transform: none;
+  }
+
+  /* Has to out-specify `.js .reveal` above, which is two classes to this one —
+     so `.reveal-done` on its own never won, and a settled element stayed visible
+     only because of the inline opacity GSAP happened to leave on it. The moment
+     anything reverted that context the element dropped back to opacity 0 and,
+     already carrying the done marker, was skipped by every later pass. Expanding
+     Featured Projects did exactly that and blanked the first column. */
+  .js .reveal.reveal-done {
+    opacity: 1;
+    transform: none;
+    will-change: auto;
   }
 
   /* A backdrop pinned to the viewport rather than to its section. `inset: 0`
