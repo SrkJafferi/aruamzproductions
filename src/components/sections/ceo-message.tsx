@@ -84,6 +84,13 @@ export function CeoMessage() {
                   &ldquo;
                 </span>
                 {ceo.body}
+                <span
+                  aria-hidden
+                  className="ml-2 font-display text-4xl leading-none align-[-0.25em]"
+                  style={{ color: "var(--accent)" }}
+                >
+                  &rdquo;
+                </span>
               </p>
             </blockquote>
 
