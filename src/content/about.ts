@@ -31,8 +31,7 @@ export const aboutHero = {
    * films"), which also splits the sentence into two near-equal measures.
    */
   statement: [
-    "Is a production company based in Karachi. Company holds Expertise team with making of",
-    "ad films, documentaries and short films which are associated with top brands & agencies.",
+    "is a full-service media production company - Based in Karachi. Powered by a team of industry experts, we specialize in producing high-impact commercial ads, documentaries, and short films for leading brands and top-tier agencies.",
   ],
   /**
    * Client-chosen replacement for the legacy `abtback2213.jpg`, which was a flat
