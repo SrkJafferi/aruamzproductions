@@ -1,196 +1,520 @@
-"use client";
-
-import Image from "next/image";
-import { ceo } from "@/content/homepage";
-import { useReveal } from "@/hooks/use-reveal";
-
-export function CeoMessage() {
-  const scope = useReveal<HTMLElement>({ stagger: 0.1 });
-
-  return (
-    <section
-      ref={scope}
-      aria-labelledby="ceo-heading"
-      className="relative overflow-hidden py-20 sm:py-28 lg:py-32"
-      /* clip-path — not overflow — is what pins the backdrop. It clips the
-         subtree without becoming a containing block for fixed descendants, so
-         the plate inside stays locked to the viewport while this section
-         travels past it. `contain: paint` would clip too, but it *does* take
-         over as the containing block, which cancels the whole effect. */
-      style={{ backgroundColor: "var(--bg)", clipPath: "inset(0)" }}
-    >
-      <CeoBackdrop />
-
-      <div className="container-page relative z-10">
-        <div className="grid items-center gap-14 lg:grid-cols-[minmax(0,0.85fr)_minmax(0,1.15fr)] lg:gap-20">
-          {/* Portrait — the official CEO photograph, never substituted. */}
-          <figure className="reveal relative mx-auto w-full max-w-sm lg:mx-0">
-            <div
-              aria-hidden
-              className="absolute -inset-3 rounded-[2rem] border sm:-inset-4"
-              style={{ borderColor: "var(--hairline)" }}
-            />
-            {/* The border sits on this element rather than on the <Image>: a
-                border on the image itself would be painted inside the same box
-                `object-cover` fills, so the corners would clip it away. */}
-            <div
-              className="relative aspect-square overflow-hidden rounded-[1.5rem] border"
-              style={{
-                backgroundColor: "var(--bg-elevated)",
-                borderColor: "color-mix(in srgb, var(--accent) 38%, transparent)",
-              }}
-            >
-              <Image
-                src={ceo.portrait.src}
-                alt={`${ceo.name}, founder of Aruamz Productions`}
-                fill
-                sizes="(max-width: 1024px) 90vw, 420px"
-                className="object-cover object-top"
-              />
-              <div
-                aria-hidden
-                className="absolute inset-0"
-                style={{
-                  background:
-                    "linear-gradient(to top, rgb(8 8 8 / 0.55), transparent 55%)",
-                }}
-              />
-            </div>
-          </figure>
-
-          <div>
-            <p className="reveal eyebrow">{ceo.eyebrow}</p>
-
-            <h2 id="ceo-heading" className="reveal mt-5 display-lg font-display">
-              {ceo.name}
-            </h2>
-
-            <div
-              aria-hidden
-              className="reveal mt-7 h-px w-24"
-              style={{ backgroundColor: "var(--accent)" }}
-            />
-
-            <blockquote className="reveal mt-8">
-              <p
-                className="text-lg leading-[1.75] sm:text-xl sm:leading-[1.7]"
-                style={{ color: "var(--fg-muted)" }}
-              >
-                <span
-                  aria-hidden
-                  className="mr-2 font-display text-4xl leading-none align-[-0.25em]"
-                  style={{ color: "var(--accent)" }}
-                >
-                  &ldquo;
-                </span>
-                {ceo.body}
-                <span
-                  aria-hidden
-                  className="ml-2 font-display text-4xl leading-none align-[-0.25em]"
-                  style={{ color: "var(--accent)" }}
-                >
-                  &rdquo;
-                </span>
-              </p>
-            </blockquote>
-
-            <figure className="reveal mt-10 flex items-center gap-5">
-              <Image
-                src={ceo.signature.src}
-                alt={`Signature of ${ceo.name}`}
-                width={ceo.signature.width}
-                height={ceo.signature.height}
-                sizes="80px"
-                /* Dark ink on transparency: inverted for the dark palette. */
-                className="h-auto w-20 opacity-80 invert light:invert-0"
-              />
-              <figcaption
-                className="border-l pl-5 text-sm"
-                style={{ borderColor: "var(--hairline)", color: "var(--fg-muted)" }}
-              >
-                <span className="block font-medium" style={{ color: "var(--fg)" }}>
-                  Syeda Zahra Shah
-                </span>
-                Chief Executive Officer
-              </figcaption>
-            </figure>
-          </div>
-        </div>
-      </div>
-    </section>
-  );
-}
-
-/**
- * Atmosphere behind the founder's message. One photograph — a cinema camera
- * rigged in a working studio — held at low opacity and pinned to the viewport,
- * so the copy travels across a still frame as you scroll. No GSAP here: the
- * effect is pure layout, which means it costs nothing per frame and cannot fall
- * out of step with the scrollbar.
- */
-function CeoBackdrop() {
-  return (
-    <div aria-hidden className="pointer-events-none absolute inset-0">
-      {/* The light palette has far less headroom: its muted body grey already
-          sits at 4.8:1 on the bare page, so the plate gets a fifth of the dark
-          theme's strength. At 0.06 both the body copy and the eyebrow measured
-          inside 0.1 of the 4.5 floor across the scroll sweep — too thin to
-          absorb a future copy or asset change. */}
-      <div className="plate-fixed opacity-[0.22] light:opacity-[0.045]">
-        <Image
-          src={ceo.backdrop}
-          alt=""
-          fill
-          sizes="100vw"
-          className="object-cover object-center"
-        />
-      </div>
-
-      {/* The copy sits on the right half, so the frame is quietened there and
-          left to breathe on the portrait side. Measured, not guessed: without
-          this the founder's paragraph reads 3.8:1 against the brightest part of
-          the plate, which is under AA. A mask rather than a `transparent → bg`
-          gradient, so the ramp is pure alpha and cannot pick up a grey cast
-          from interpolating toward a colour. */}
-      <div
-        className="absolute inset-0"
-        style={{
-          backgroundColor: "var(--bg)",
-          opacity: 0.72,
-          maskImage: "linear-gradient(to right, transparent 4%, black 54%)",
-          WebkitMaskImage: "linear-gradient(to right, transparent 4%, black 54%)",
-        }}
-      />
-
-      {/* Warms the frame into the palette — the source is close to neutral, and
-          a cool grey wash under gold type reads cheap. */}
-      <div
-        className="absolute inset-0"
-        style={{
-          background: "radial-gradient(112% 84% at 22% 18%, var(--accent) 0%, transparent 62%)",
-          opacity: 0.09,
-        }}
-      />
-
-      {/* Feathers the plate into the sections above and below, so the pinned
-          frame has no seam where the band starts and stops. */}
-      <div
-        className="absolute inset-0"
-        style={{
-          background:
-            "linear-gradient(to bottom, var(--bg) 0%, transparent 22%, transparent 78%, var(--bg) 100%)",
-        }}
-      />
-
-      <span
-        className="absolute inset-x-0 top-0 block h-px"
-        style={{
-          background: "linear-gradient(to right, var(--accent), transparent 60%)",
-          opacity: 0.5,
-        }}
-      />
-
-      <div className="grain absolute inset-0" />
-    </div>
-  );
-}
+[
+  {
+    "key": "logo",
+    "group": "brand",
+    "src": "/brand/logo.png",
+    "width": 617,
+    "height": 550
+  },
+  {
+    "key": "ceo-portrait",
+    "group": "brand",
+    "src": "/brand/ceo-portrait.png",
+    "width": 432,
+    "height": 431
+  },
+  {
+    "key": "ceo-signature",
+    "group": "brand",
+    "src": "/brand/ceo-signature.png",
+    "width": 505,
+    "height": 362
+  },
+  {
+    "key": "showreel-poster",
+    "group": "brand",
+    "src": "/brand/showreel-poster.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "key": "hero",
+    "group": "textures",
+    "src": "/textures/hero.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "key": "who-we-are",
+    "group": "textures",
+    "src": "/textures/who-we-are.jpg",
+    "width": 1372,
+    "height": 465
+  },
+  {
+    "key": "mission",
+    "group": "textures",
+    "src": "/textures/mission.jpg",
+    "width": 1372,
+    "height": 465
+  },
+  {
+    "key": "project-01",
+    "group": "projects",
+    "src": "/projects/project-01.jpeg",
+    "width": 1066,
+    "height": 1600
+  },
+  {
+    "key": "project-02",
+    "group": "projects",
+    "src": "/projects/project-02.jpeg",
+    "width": 1066,
+    "height": 1600
+  },
+  {
+    "key": "project-03",
+    "group": "projects",
+    "src": "/projects/project-03.jpeg",
+    "width": 1066,
+    "height": 1600
+  },
+  {
+    "key": "project-04",
+    "group": "projects",
+    "src": "/projects/project-04.jpeg",
+    "width": 1066,
+    "height": 1600
+  },
+  {
+    "key": "project-05",
+    "group": "projects",
+    "src": "/projects/project-05.jpg",
+    "width": 1600,
+    "height": 1800
+  },
+  {
+    "key": "project-06",
+    "group": "projects",
+    "src": "/projects/project-06.jpg",
+    "width": 746,
+    "height": 1180
+  },
+  {
+    "key": "project-07",
+    "group": "projects",
+    "src": "/projects/project-07.jpg",
+    "width": 1169,
+    "height": 770
+  },
+  {
+    "key": "project-08",
+    "group": "projects",
+    "src": "/projects/project-08.jpeg",
+    "width": 1170,
+    "height": 640
+  },
+  {
+    "key": "project-09",
+    "group": "projects",
+    "src": "/projects/project-09.jpg",
+    "width": 1170,
+    "height": 770
+  },
+  {
+    "key": "project-11",
+    "group": "projects",
+    "src": "/projects/project-11.jpeg",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "key": "project-13",
+    "group": "projects",
+    "src": "/projects/project-13.jpg",
+    "width": 960,
+    "height": 590
+  },
+  {
+    "key": "project-14",
+    "group": "projects",
+    "src": "/projects/project-14.jpg",
+    "width": 1049,
+    "height": 820
+  },
+  {
+    "key": "project-15",
+    "group": "projects",
+    "src": "/projects/project-15.jpg",
+    "width": 1170,
+    "height": 770
+  },
+  {
+    "key": "project-16",
+    "group": "projects",
+    "src": "/projects/project-16.jpeg",
+    "width": 1170,
+    "height": 656
+  },
+  {
+    "key": "project-17",
+    "group": "projects",
+    "src": "/projects/project-17.jpg",
+    "width": 960,
+    "height": 650
+  },
+  {
+    "key": "project-18",
+    "group": "projects",
+    "src": "/projects/project-18.jpg",
+    "width": 1170,
+    "height": 800
+  },
+  {
+    "key": "project-19",
+    "group": "projects",
+    "src": "/projects/project-19.jpeg",
+    "width": 1170,
+    "height": 642
+  },
+  {
+    "key": "project-20",
+    "group": "projects",
+    "src": "/projects/project-20.jpeg",
+    "width": 960,
+    "height": 625
+  },
+  {
+    "key": "project-21",
+    "group": "projects",
+    "src": "/projects/project-21.jpeg",
+    "width": 1600,
+    "height": 1600
+  },
+  {
+    "key": "project-22",
+    "group": "projects",
+    "src": "/projects/project-22.jpg",
+    "width": 1125,
+    "height": 819
+  },
+  {
+    "key": "project-24",
+    "group": "projects",
+    "src": "/projects/project-24.jpg",
+    "width": 1125,
+    "height": 828
+  },
+  {
+    "key": "project-25",
+    "group": "projects",
+    "src": "/projects/project-25.jpg",
+    "width": 1125,
+    "height": 829
+  },
+  {
+    "key": "project-26",
+    "group": "projects",
+    "src": "/projects/project-26.jpg",
+    "width": 1125,
+    "height": 823
+  },
+  {
+    "key": "project-27",
+    "group": "projects",
+    "src": "/projects/project-27.jpg",
+    "width": 1125,
+    "height": 822
+  },
+  {
+    "key": "project-28",
+    "group": "projects",
+    "src": "/projects/project-28.jpg",
+    "width": 1125,
+    "height": 809
+  },
+  {
+    "key": "project-29",
+    "group": "projects",
+    "src": "/projects/project-29.jpg",
+    "width": 900,
+    "height": 506
+  },
+  {
+    "key": "project-30",
+    "group": "projects",
+    "src": "/projects/project-30.jpg",
+    "width": 640,
+    "height": 960
+  },
+  {
+    "key": "project-31",
+    "group": "projects",
+    "src": "/projects/project-31.jpg",
+    "width": 840,
+    "height": 600
+  },
+  {
+    "key": "project-32",
+    "group": "projects",
+    "src": "/projects/project-32.jpg",
+    "width": 480,
+    "height": 720
+  },
+  {
+    "key": "project-33",
+    "group": "projects",
+    "src": "/projects/project-33.jpeg",
+    "width": 1170,
+    "height": 645
+  },
+  {
+    "key": "project-34",
+    "group": "projects",
+    "src": "/projects/project-34.jpeg",
+    "width": 1170,
+    "height": 644
+  },
+  {
+    "key": "project-36",
+    "group": "projects",
+    "src": "/projects/project-36.jpeg",
+    "width": 1170,
+    "height": 644
+  },
+  {
+    "key": "project-37",
+    "group": "projects",
+    "src": "/projects/project-37.jpeg",
+    "width": 1170,
+    "height": 650
+  },
+  {
+    "key": "project-38",
+    "group": "projects",
+    "src": "/projects/project-38.jpeg",
+    "width": 1170,
+    "height": 649
+  },
+  {
+    "key": "project-39",
+    "group": "projects",
+    "src": "/projects/project-39.jpeg",
+    "width": 1170,
+    "height": 643
+  },
+  {
+    "key": "project-40",
+    "group": "projects",
+    "src": "/projects/project-40.jpeg",
+    "width": 1170,
+    "height": 649
+  },
+  {
+    "key": "project-41",
+    "group": "projects",
+    "src": "/projects/project-41.jpeg",
+    "width": 1170,
+    "height": 646
+  },
+  {
+    "key": "project-42",
+    "group": "projects",
+    "src": "/projects/project-42.jpeg",
+    "width": 1170,
+    "height": 643
+  },
+  {
+    "key": "project-43",
+    "group": "projects",
+    "src": "/projects/project-43.jpeg",
+    "width": 960,
+    "height": 540
+  },
+  {
+    "key": "project-45",
+    "group": "projects",
+    "src": "/projects/project-45.jpeg",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "key": "project-46",
+    "group": "projects",
+    "src": "/projects/project-46.jpeg",
+    "width": 1170,
+    "height": 649
+  },
+  {
+    "key": "project-47",
+    "group": "projects",
+    "src": "/projects/project-47.jpeg",
+    "width": 1170,
+    "height": 660
+  },
+  {
+    "key": "project-48",
+    "group": "projects",
+    "src": "/projects/project-48.jpeg",
+    "width": 1170,
+    "height": 801
+  },
+  {
+    "key": "project-49",
+    "group": "projects",
+    "src": "/projects/project-49.jpeg",
+    "width": 1170,
+    "height": 772
+  },
+  {
+    "key": "project-50",
+    "group": "projects",
+    "src": "/projects/project-50.jpeg",
+    "width": 1170,
+    "height": 772
+  },
+  {
+    "key": "project-51",
+    "group": "projects",
+    "src": "/projects/project-51.jpg",
+    "width": 900,
+    "height": 600
+  },
+  {
+    "key": "project-53",
+    "group": "projects",
+    "src": "/projects/project-53.jpg",
+    "width": 1125,
+    "height": 803
+  },
+  {
+    "key": "project-55",
+    "group": "projects",
+    "src": "/projects/project-55.jpg",
+    "width": 1027,
+    "height": 625
+  },
+  {
+    "key": "client-01",
+    "group": "clients",
+    "src": "/clients/client-01.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-02",
+    "group": "clients",
+    "src": "/clients/client-02.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-03",
+    "group": "clients",
+    "src": "/clients/client-03.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-04",
+    "group": "clients",
+    "src": "/clients/client-04.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-05",
+    "group": "clients",
+    "src": "/clients/client-05.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-06",
+    "group": "clients",
+    "src": "/clients/client-06.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-07",
+    "group": "clients",
+    "src": "/clients/client-07.png",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-08",
+    "group": "clients",
+    "src": "/clients/client-08.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-09",
+    "group": "clients",
+    "src": "/clients/client-09.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-10",
+    "group": "clients",
+    "src": "/clients/client-10.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-11",
+    "group": "clients",
+    "src": "/clients/client-11.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "client-12",
+    "group": "clients",
+    "src": "/clients/client-12.jpg",
+    "width": 230,
+    "height": 157
+  },
+  {
+    "key": "nadya-mistry",
+    "group": "testimonials",
+    "src": "/testimonials/nadya-mistry.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "ejaaz-khan",
+    "group": "testimonials",
+    "src": "/testimonials/ejaaz-khan.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "syed-amjad-ali-shah",
+    "group": "testimonials",
+    "src": "/testimonials/syed-amjad-ali-shah.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "hassan-mehmood",
+    "group": "testimonials",
+    "src": "/testimonials/hassan-mehmood.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "fahad-jawaid",
+    "group": "testimonials",
+    "src": "/testimonials/fahad-jawaid.png",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "syeda-uzma-shah",
+    "group": "testimonials",
+    "src": "/testimonials/syeda-uzma-shah.jpg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "key": "arooba",
+    "group": "testimonials",
+    "src": "/testimonials/arooba.jpg",
+    "width": 150,
+    "height": 150
+  }
+]
