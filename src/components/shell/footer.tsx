@@ -35,7 +35,9 @@ export function Footer() {
               className="mt-6 max-w-sm text-sm leading-relaxed"
               style={{ color: "var(--fg-muted)" }}
             >
-              A media house by {site.founder}. {site.tagline}.
+              A media house by {site.founder}.
+              <br />
+              {site.tagline}.
             </p>
             <p
               className="mt-3 max-w-sm text-sm leading-relaxed"
